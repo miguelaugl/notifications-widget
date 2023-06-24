@@ -1,3 +1,5 @@
+## About
+
 This is a simple widget notification created with Next and Tailwind that handles system theme.
 
 ## Dark Mode
