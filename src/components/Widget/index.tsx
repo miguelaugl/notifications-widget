@@ -1,6 +1,6 @@
 import { Header } from './Header'
-import { Recent } from './Recent'
 import { Old } from './Old'
+import { Recent } from './Recent'
 
 export function Widget() {
   return (

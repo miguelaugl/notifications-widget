@@ -1,11 +1,9 @@
-import { ElementType } from "react"
+import { ElementType } from 'react'
 
 type NotificationIconProps = {
   icon: ElementType
 }
 
 export function NotificationIcon({ icon: Icon }: NotificationIconProps) {
-  return (
-    <Icon className='w-6 h-6 text-violet-500 mt-2' />
-  )
+  return <Icon className="w-6 h-6 text-violet-500 mt-2" />
 }
