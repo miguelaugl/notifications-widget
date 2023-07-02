@@ -1,6 +1,6 @@
 import { Header } from './Header'
-import { Recent } from './Notifications/Recent'
-import { Old } from './Notifications/Old'
+import { Recent } from './Recent'
+import { Old } from './Old'
 
 export function Widget() {
   return (
